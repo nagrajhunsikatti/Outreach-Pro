@@ -7,7 +7,7 @@ from portfolio import Portfolio
 from utils import clean_text
 
 # Okta configuration
-OKTA_DOMAIN = "dev-moyfp4odxs5s2o2w.us.auth0.com"
+OKTA_DOMAIN = "https://dev-moyfp4odxs5s2o2w.us.auth0.com"
 CLIENT_ID = "RfAX1npgT2Pteq6KOBp8KTZ9ZxI3n6q1"
 CLIENT_SECRET = "tm5gDHPt7nnQJG8ArpJ8vr2V-wv2NFa_dw6dX5-IXfcJQ6jWPDEuqLZk6ebLXFgy"
 REDIRECT_URI = "http://localhost:8501/callback"

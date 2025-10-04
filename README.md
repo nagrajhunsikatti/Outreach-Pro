@@ -27,5 +27,4 @@ It generates personalized cold emails using **Groq Cloud**, **vector databases**
 
 ---
 
-## Repository Structure
 
